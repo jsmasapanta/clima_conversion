@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1770742113552" clover="3.2.0">
+  <project timestamp="1770742113552" name="All files">
+    <metrics statements="16" coveredstatements="16" conditionals="14" coveredconditionals="14" methods="3" coveredmethods="3" elements="33" coveredelements="33" complexity="0" loc="16" ncloc="16" packages="1" files="1" classes="1"/>
+    <file name="clima.js" path="D:\Documentos nuevos\ESPE\6to semestre\Pruebas software\3 er parcial\ExamenP3\clima-conversion\src\utils\clima.js">
+      <metrics statements="16" coveredstatements="16" conditionals="14" coveredconditionals="14" methods="3" coveredmethods="3"/>
+      <line num="2" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="7" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="8" count="3" type="stmt"/>
+      <line num="12" count="8" type="cond" truecount="2" falsecount="0"/>
+      <line num="13" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="14" count="6" type="cond" truecount="4" falsecount="0"/>
+      <line num="16" count="4" type="stmt"/>
+      <line num="17" count="13" type="cond" truecount="2" falsecount="0"/>
+      <line num="20" count="2" type="stmt"/>
+      <line num="21" count="2" type="stmt"/>
+      <line num="22" count="4" type="stmt"/>
+      <line num="23" count="9" type="stmt"/>
+      <line num="24" count="4" type="stmt"/>
+      <line num="26" count="2" type="stmt"/>
+      <line num="29" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
